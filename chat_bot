@@ -1,0 +1,7 @@
+<script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
+<df-messenger
+  intent="WELCOME"
+  chat-title="INTERNETSERVICEBOT"
+  agent-id="f06a5fdf-0113-4d79-801f-5ced2ef55db6"
+  language-code="en"
+></df-messenger>
